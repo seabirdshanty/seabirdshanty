@@ -1,5 +1,23 @@
-hi im jamie and ive been coding html for like 17 years
+![](./avi2.gif)
 
-i create errorlogs with no end in sight
+### Who's this?
 
-![](https://64.media.tumblr.com/c695f663f5a05790266f728533de5178/c08845459ccfb2bb-a8/s1280x1920/9cabaa5fab0c8d9529bf4caf8519ee821dbb362d.png)
+Hi, I'm Jam/Artemis, a non-bi-nary WebMage. seabirdshanty, or Byrdie, is my pseud for Coding and Web Development. 
+
+I enjoy coding for the sole passion of making really awesome fanshrines & fansites, and making the creation of these fansites easy and accessible for anyone intrested. Currently learning Advanced PHP and Laravel.
+
+I'm currently working on building a simple, flat-file CMS for such fansites, with the hope to incude:
+  - New Fanlisting Management
+  - Gallery Management
+  - Page Management
+  - Update Management
+
+### Where to find me
+  - [My Homepage](https://eternal-anime.org)
+  - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Private](http://twitter.com/xhiraethia)
+  - Tumblr, via my [personal blog](http://bloglimit.tumblr.com) or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com)
+
+
+
+
+
