@@ -13,11 +13,7 @@ I'm currently working on building a simple, flat-file CMS for such fansites, wit
   - Update Management
 
 ### Where to find me
-  - [My Homepage](https://eternal-anime.org)
-  - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Private](http://twitter.com/xhiraethia)
-  - Tumblr, via my [personal blog](http://bloglimit.tumblr.com) or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com)
-
-
-
-
-
+  - [My Homepage](#) (Currently unavailable!)
+  - [My Kino's Travels Fanshrine](https://kinotabi.info)
+  - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Private](http://twitter.com/moonprisym)
+  - Tumblr, via my [personal blog](http://solstice.party) or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com)
