@@ -2,7 +2,7 @@
 
 ### Who's this?
 
-Hi, I'm Jam/Artemis, a non-bi-nary WebMage. seabirdshanty, or Byrdie, is my pseud for Coding and Web Development. 
+Hi, I'm Jamie, a non-bi-nary WebMage. seabirdshanty is my pseud for Coding and Web Development. 
 
 I enjoy coding for the sole passion of making really awesome fanshrines & fansites, and making the creation of these fansites easy and accessible for anyone intrested. Currently learning Advanced PHP and Laravel.
 
