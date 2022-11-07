@@ -15,5 +15,5 @@ I'm currently working on building a simple, flat-file CMS for such fansites, wit
 ### Where to find me
   - [My Homepage](#) (Currently unavailable!)
   - [My Kino's Travels Fanshrine](https://kinotabi.info)
-  - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Private](http://twitter.com/moonprisym)
+  - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Public](http://twitter.com/rummyiabyrinth)
   - Tumblr, via my [personal blog](http://solstice.party) or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com)
