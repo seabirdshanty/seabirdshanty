@@ -2,7 +2,7 @@
 
 ### Who's this?
 
-Hi, I'm Jamie, a non-bi-nary WebMage. seabirdshanty is my pseud for Coding and Web Development. 
+Hi, I'm Jamie, a 29 y/o non-bi-nary WebMage. seabirdshanty is my pseud for Coding and Web Development. 
 
 I enjoy coding for the sole passion of making really awesome fanshrines & fansites, and making the creation of these fansites easy and accessible for anyone intrested. Currently learning Advanced PHP and Laravel.
 
@@ -13,8 +13,8 @@ I'm currently working on building a simple, flat-file CMS for such fansites, wit
   - Update Management
 
 ### Where to find me
-  - [My Homepage](https://solstice.party)
-  - [My Kino's Travels Fanshrine](https://kinotabi.info)
+  - Tumblr, via my [Art pseudonym](https://freakmocha.tumblr.com), [personal blog](http://milfglue.tumblr.com), or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com) 
+  - [My Github Homepage](https://seabirdshanty.github.io)
+  - [My Kino's Travels Fanshrine (Static Archive)](https://kinotabi.neocities.org)
   - Twitter, via my [Art pseudonym](http://twitter.com/freakmoch) or [Public](http://twitter.com/rummyiabyrinth)
-  - Tumblr, via my [personal blog](http://solstice.party) or as Mod 2 of [imagineyouricon](http://imagineyouricon.tumblr.com) 
   - on [StackOverflow](https://stackoverflow.com/users/20443935/byrdie)
